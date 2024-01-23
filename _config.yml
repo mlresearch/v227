@@ -1,0 +1,105 @@
+---
+year: '2023'
+volume: '227'
+booktitle: Medical Imaging with Deep Learning
+end: 2023-07-12
+shortname: MIDL
+start: 2023-07-10
+published: 2024-01-23
+url: https://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MIDL-2023
+month: 0
+cycles: false
+bibtex_editor: Oguz, Ipek and Noble, Jack and Li, Xiaoxiao and Styner, Martin and
+  Baumgartner, Christian and Rusu, Mirabela and Heinmann, Tobias and Kontos, Despina
+  and Landman, Bennett and Dawant, Benoit
+editor:
+- given: Ipek
+  family: Oguz
+- given: Jack
+  family: Noble
+- given: Xiaoxiao
+  family: Li
+- given: Martin
+  family: Styner
+- given: Christian
+  family: Baumgartner
+- given: Mirabela
+  family: Rusu
+- given: Tobias
+  family: Heinmann
+- given: Despina
+  family: Kontos
+- given: Bennett
+  family: Landman
+- given: Benoit
+  family: Dawant
+title: Proceedings of Machine Learning Research
+description: |
+  Medical Imaging with Deep Learning
+    Held in Nashville, TN, USA on 10-12 July 2023
+
+  Published as Volume 227 by the Proceedings of Machine Learning Research on 23 January 2024.
+
+  Volume Edited by:
+    Ipek Oguz
+    Jack Noble
+    Xiaoxiao Li
+    Martin Styner
+    Christian Baumgartner
+    Mirabela Rusu
+    Tobias Heinmann
+    Despina Kontos
+    Bennett Landman
+    Benoit Dawant
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 10--12 Jul
+author:
+  name: PMLR
+baseurl: "/v227"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v227
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v227
+email: ''
+conference:
+  name: Medical Imaging with Deep Learning
+  url:
+  location: Nashville, TN, USA
+  dates:
+  - 2023-07-10
+  - 2023-07-11
+  - 2023-07-12
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v227/MIDL2023.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v227/MIDL2023.bib
